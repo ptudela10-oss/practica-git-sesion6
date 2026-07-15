@@ -93,7 +93,7 @@ Aplicar GitHub Pages, Rebase Interactivo y Personal Access Token (PAT) para publ
 ### Autor
 
 Pamela Karem Tudela Lopez
-
+Práctica Git Sesión 6 - Rebase y PAT completado
 ## Copyright and License
 
 Copyright 2013-2023 Start Bootstrap LLC. Code released under the [MIT](https://github.com/StartBootstrap/startbootstrap-freelancer/blob/master/LICENSE) license.
